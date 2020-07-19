@@ -73,6 +73,10 @@ vtex login accountname
 
 _where accountname is your VTEX account name._
 
+A browser window will be opened, asking you to log in. Remember to choose an authorized account (it is suggested to login with Google Auth).
+
+Then a confirmation message should be shown. You can close this window now.
+
 You can also check your login status with the 'who am I' command:
 
 ``` sh

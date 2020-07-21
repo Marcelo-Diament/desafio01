@@ -97,6 +97,6 @@ Don't forget to check these [workspace important info](https://vtex.io/docs/conc
 
 ### 1.6. Preview
 
-To preview this workspace, access https://{desafio01marcelodiament}--{accountname}.myvtex.com, *after updating the accountname value*.
+To preview this workspace, access https://desafio01marcelodiament--{accountname}.myvtex.com, *after updating the accountname value*.
 
 ___

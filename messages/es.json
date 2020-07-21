@@ -1,9 +1,0 @@
-{
-  "editor.title.component.header": "Componente Header",
-  "editor.description.component.header": "Condigurações para o componente Header",
-  "editor.component.header.title": "Insira o título",
-  "editor.component.header.description": "título que será exibido no header",
-  "editor.component.header.logo-title" : "Selecione o Logo",
-  "editor.component.header.logo-description": "Faça o upload da imagem para o logo",
-  "editor.component.header.user-session-icon-title": "Selecione o icone para o usuário"
-}

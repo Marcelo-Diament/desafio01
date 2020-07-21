@@ -5,22 +5,24 @@ _JüssiLabs | VTEX IO v2_
 The idea is to construct a custom app based on VTEX IO v2 good practices and within the JüssiLabs store theme.
 ___
   
+
 ## 'About the Repo' Notes
 
 This repository is dedicated to this first challenge. Each branch represents a newer step on the challenge.
 
 The branch naming is based on the following rules:
 
-- **D01** represents the current challenge, so it will be kept all over the repo.
-- **001** would represent the first step. So the second step is 002, the third is 003, and so on.
-- **Getting-Started** is the task or step descriptive and concise name.
+* **D01** represents the current challenge, so it will be kept all over the repo.
+* **001** would represent the first step. So the second step is 002, the third is 003, and so on.
+* **Getting-Started** is the task or step descriptive and concise name.
 
 Note that the first part is separated from the second one by a hyphen, while the second on is separated from the third with an underscore character. Finally, words in the third part are separated by hyphens.
 
 At the same time steps are represented by branches, they will also be represented by chapters in the documentation (in this `README.md` file).
 
 In parallel, the commits will represent small steps towards completing the task. As well as part of the sub-chapters of the documentation. Commits should be classified by their type (feature, improvement, or bugfix).
-
+___
+  
 
 ## 1. Getting Started
 

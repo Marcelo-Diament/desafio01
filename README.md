@@ -19,7 +19,7 @@ Note that the first part is separated from the second one by a hyphen, while the
 
 At the same time steps are represented by branches, they will also be represented by chapters in the documentation (in this `README.md` file).
 
-In parallel, the commits will represent small steps towards completing the task. As well as part of the sub-chapters of the documentation.
+In parallel, the commits will represent small steps towards completing the task. As well as part of the sub-chapters of the documentation. Commits should be classified by their type (feature, improvement, or bugfix).
 
 
 ## 1. Getting Started

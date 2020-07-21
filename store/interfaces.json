@@ -1,0 +1,14 @@
+{
+  "sandbox": {
+    "component": "Countdown"
+  },
+  "sandbox.title": {
+    "component": "Title"
+  },
+  "sandbox.gif": {
+    "component": "Gif"
+  },
+  "sandbox.header": {
+    "component": "Header"
+  }
+}

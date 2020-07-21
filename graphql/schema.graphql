@@ -1,0 +1,21 @@
+type Giphy {
+  id: String
+  url: String
+  images: Images
+}
+type Images {
+  downsized_large: DownsizedLarge
+}
+
+type DownsizedLarge {
+  url: String
+}
+
+type Query {
+    helloWorld: String
+    gif(term: String): Giphy
+}
+
+
+
+

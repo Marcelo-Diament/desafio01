@@ -95,7 +95,16 @@ vtex workspace use desafio01marcelodiament
 
 Don't forget to check these [workspace important info](https://vtex.io/docs/concepts/workspace/) out.
 
-### 1.6. Preview
+### 1.6. Installs
+
+Run the following commands:
+
+``` sh
+vtex install vtex.store
+vtex install vtex.store-theme
+```
+
+### 1.7. Preview
 
 To preview this workspace, access https://desafio01marcelodiament--{accountname}.myvtex.com, *after updating the accountname value*.
 

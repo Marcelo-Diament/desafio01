@@ -1,8 +1,8 @@
 # Challenge #01
 
-_JüssiLabs | VTEX IO v2 | Challenge #01_
+_JüssiLabs | VTEX IO v2_
 
-The idea is to construct a custom app based on VTEX IO v2 good practices and within JüssiLabs store theme.
+The idea is to construct a custom app based on VTEX IO v2 good practices and within the JüssiLabs store theme.
 ___
   
 ## 'About the Repo' Notes
@@ -12,10 +12,10 @@ This repository is dedicated to this first challenge. Each branch represents a n
 The branch naming is based on the following rules:
 
 - **D01** represents the current challenge, so it will be kept all over the repo.
-- **001** would represent the first step. So the second step is 002, the third is 003 and so on.
+- **001** would represent the first step. So the second step is 002, the third is 003, and so on.
 - **Getting-Started** is the task or step descriptive and concise name.
 
-Note that the first part is separated from the second one by a hyphen, while the second on is separeted from the third with an underscore character. Finally, words in the third part are separated by hyphens.
+Note that the first part is separated from the second one by a hyphen, while the second on is separated from the third with an underscore character. Finally, words in the third part are separated by hyphens.
 
 At the same time steps are represented by branches, they will also be represented by chapters in the documentation (in this `README.md` file).
 
@@ -24,7 +24,7 @@ In parallel, the commits will represent small steps towards completing the task.
 
 ## 1. Getting Started
 
-### 1.1. Pre Requisites
+### 1.1. Prerequisites
 
 In order to use this repository and/or app, it is required that the following tools are already installed and correctly configured:
 
@@ -88,7 +88,7 @@ vtex whoami
 Use the `desafio01marcelodiament` workspace by running:
 
 ``` sh
-vtex workspace use workspacename
+vtex workspace use desafio01marcelodiament
 ```
 
 Don't forget to check these [workspace important info](https://vtex.io/docs/concepts/workspace/) out.

@@ -1,0 +1,11 @@
+query getGif ($term: String) {
+    gif(term:$term){
+        id
+        url
+        images {
+    	downsized_large{
+        url
+      }
+    }
+    }
+}
